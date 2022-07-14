@@ -1,60 +1,13 @@
-***\*东湖高新区社区养老服务\*******\*系统操作手册\****
+# **东湖高新区社区养老服务--系统操作手册** 
 
- 
 
- 
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
 
 | 文件状态：[  ] 草稿[√] 正式发布[  ] 正在修改 | 文件标识： | 操作手册 |
 | -------------------------------------------- | ---------- | -------- |
 | 当前版本：                                   | 3.0        |          |
 | 作   者：                                    | 饶攀峰     |          |
 | 完成日期：                                   | 2022-05-20 |          |
-
- 
-
- 
-
- 
-
- 
 
  
 
@@ -70,14 +23,11 @@
 | 4    |           |        |              |            |          |
 | 5    |           |        |              |            |          |
 | 6    |           |        |              |            |          |
-| 7    |           |        |              |            |          |
-| 8    |           |        |              |            |          |
-| 9    |           |        |              |            |          |
-| 10   |           |        |              |            |          |
 
- 
 
-***\*概述\****
+
+
+**概述**
 
  
 
@@ -149,7 +99,7 @@ https://www.ggva.cn/platform/login
 
  
 
-#### ***\*查询服务工单\****
+#### **查询服务工单**
 
  
 
@@ -161,7 +111,7 @@ https://www.ggva.cn/platform/login
 
  
 
-#### ***\*查看工单详情\****
+#### **查看工单详情**
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps5.jpg) 
 
@@ -169,7 +119,7 @@ https://www.ggva.cn/platform/login
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps6.jpg) 
 
-#### ***\*为工单分配服务人员\****
+#### **为工单分配服务人员**
 
 会员用户在网站/孝康通APP/孝康通小程序预约服务后系统会生成对应的工单，然后由系统运营人员分配相应的服务人员上门服务，分配服务人员支持为每张工单单独分配服务人员、批量将多张工单分配给同一个服务人员两种方式。
 
@@ -191,7 +141,7 @@ https://www.ggva.cn/platform/login
 
  
 
-#### ***\*审核服务人员完成的服务工单(上传的工作日志)\****
+#### **审核服务人员完成的服务工单(上传的工作日志)**
 
 平台运营人员查看服务人员上传的工作日志确认审核通过
 
@@ -199,7 +149,7 @@ https://www.ggva.cn/platform/login
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps10.jpg) 
 
-#### ***\*确认服务工单已完成\****
+#### **确认服务工单已完成**
 
 平台运营人员查看服务人员上传的工作日志确认服务人员已经完成工单要求的工作内容。
 
@@ -209,7 +159,7 @@ https://www.ggva.cn/platform/login
 
  
 
-#### ***\*查看工单服务日志\****
+#### **查看工单服务日志**
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps12.jpg) 
 
@@ -251,13 +201,13 @@ https://www.ggva.cn/platform/login
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps19.jpg) 
 
-#### ***\*发布、编辑修改商品\****
+#### **发布、编辑修改商品**
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps20.jpg) 
 
  
 
-#### ***\*编辑商品的多种价格信息\****
+#### **编辑商品的多种价格信息**
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps21.jpg) 
 
@@ -267,7 +217,7 @@ https://www.ggva.cn/platform/login
 
  
 
-#### ***\*商品信息图片集管理\****
+#### **商品信息图片集管理**
 
  
 
@@ -281,11 +231,11 @@ https://www.ggva.cn/platform/login
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps23.jpg) 
 
-#### ***\*上架、下架商品\****
+#### **上架、下架商品**
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps24.jpg) 
 
-#### ***\*查询发布的商品\****
+#### **查询发布的商品**
 
 可按所属供应商、商品类别、商品名称、商品类型、商品状态、上架到小程序、推荐小程序、积分兑换等属性查询已发布的商品
 
@@ -317,7 +267,7 @@ https://www.ggva.cn/platform/login
 
  
 
-#### ***\*查询商品订单\****
+#### **查询商品订单**
 
 可通过所属供应商/订单编号/购买会员名称/订单状态/下单时间/订单编号/订单类型等属性查询相应的订单
 
@@ -327,7 +277,7 @@ https://www.ggva.cn/platform/login
 
  
 
-#### ***\*查看订单详情\****
+#### **查看订单详情**
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps30.jpg) 
 
@@ -337,7 +287,7 @@ https://www.ggva.cn/platform/login
 
  
 
-#### ***\*发货\****
+#### **发货**
 
 当会员用户完成付款后，方可进行发货操作
 
@@ -351,7 +301,7 @@ https://www.ggva.cn/platform/login
 
  
 
-#### ***\*退款\****
+#### **退款**
 
 当会员用户对订单发起退款请求后，运营人员审核通过后确认退款。
 
@@ -369,7 +319,7 @@ https://www.ggva.cn/platform/login
 
 服务信息管理主要是对养老健康服务信息进行管理，包括服务的发布、编辑修改、上架、下架、删除、查询以及上传服务信息到市级平台功能
 
-#### ***\*发布 、编辑修改服务信息\****
+#### **发布 、编辑修改服务信息**
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps36.jpg) 
 
@@ -377,7 +327,7 @@ https://www.ggva.cn/platform/login
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps37.jpg) 
 
-#### ***\*编辑修改服务信息的多种价格信息\****
+#### **编辑修改服务信息的多种价格信息**
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps38.jpg) 
 
@@ -385,7 +335,7 @@ https://www.ggva.cn/platform/login
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps39.jpg) 
 
-#### ***\*服务信息的图片集管理\****
+#### **服务信息的图片集管理**
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps40.jpg) 
 
@@ -399,13 +349,13 @@ https://www.ggva.cn/platform/login
 
  
 
-#### ***\*上架、下架服务信息\****
+#### **上架、下架服务信息**
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps42.jpg) 
 
  
 
-#### ***\*删除、批量删除服务信息\****
+#### **删除、批量删除服务信息**
 
 可以单个删除，也可以批量删除
 
@@ -415,13 +365,13 @@ https://www.ggva.cn/platform/login
 
  
 
-#### ***\*查询发布的服务信息\****
+#### **查询发布的服务信息**
 
 可按所属服务商、服务名称、服务类别、服务类型 、服务营业状态、积分兑换查询对应的服务信息
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps44.jpg) 
 
-#### ***\*上传服务信息到市级平台\****
+#### **上传服务信息到市级平台**
 
 选择要上传到市级平台的服务信息（一个或者多个）然后点击上传到市级平台即可
 
@@ -505,7 +455,7 @@ https://www.ggva.cn/platform/login
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps56.jpg) 
 
-#### ***\*录入/编辑体检报告数据\****
+#### **录入/编辑体检报告数据**
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps57.jpg) 
 
@@ -517,11 +467,11 @@ https://www.ggva.cn/platform/login
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps59.jpg) 
 
-#### ***\*查看体检报告各项数据\****
+#### **查看体检报告各项数据**
 
  
 
-**①**　***\*身高体重\****
+**①**　***\*身高体重\**
 
  
 
@@ -529,7 +479,7 @@ https://www.ggva.cn/platform/login
 
  
 
-**②**　***\*体脂\****
+**②**　***\*体脂\**
 
  
 
@@ -539,7 +489,7 @@ https://www.ggva.cn/platform/login
 
  
 
-**③**　***\*血压\****
+**③**　***\*血压\**
 
  
 
@@ -547,7 +497,7 @@ https://www.ggva.cn/platform/login
 
  
 
-**④**　***\*血糖\****
+**④**　***\*血糖\**
 
  
 
@@ -563,7 +513,7 @@ https://www.ggva.cn/platform/login
 
  
 
-**⑤**　***\*尿酸\****
+**⑤**　***\*尿酸\**
 
  
 
@@ -571,7 +521,7 @@ https://www.ggva.cn/platform/login
 
  
 
-**⑥**　***\*胆固醇\****
+**⑥**　***\*胆固醇\**
 
  
 
@@ -579,7 +529,7 @@ https://www.ggva.cn/platform/login
 
  
 
-**⑦**　***\*血氧\****
+**⑦**　***\*血氧\**
 
  
 
@@ -589,13 +539,13 @@ https://www.ggva.cn/platform/login
 
  
 
-**⑧**　***\*体温\****
+**⑧**　***\*体温\**
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps68.jpg) 
 
  
 
-**⑨**　***\*心电\****
+**⑨**　***\*心电\**
 
  
 
@@ -603,7 +553,7 @@ https://www.ggva.cn/platform/login
 
  
 
-**⑩**　***\*腰臀比\****
+**⑩**　***\*腰臀比\**
 
  
 
@@ -663,13 +613,13 @@ https://www.ggva.cn/platform/login
 
 平台收集的一些健康知识汇聚到这个模块，此模块有增加，修改，删除和查询的功能
 
-#### ***\*增加或者修改健康知识\****
+#### **增加或者修改健康知识**
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps77.jpg) 
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps78.jpg) 
 
-#### ***\*删除健康知识\****
+#### **删除健康知识**
 
 在删除健康知识前需要先选择你要删除的健康知识的位置
 
@@ -719,7 +669,7 @@ https://www.ggva.cn/platform/login
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps85.jpg) 
 
-#### ***\*血压预警\****
+#### **血压预警**
 
 血压预警表示当可穿戴设备监测到老人的血压数据超过预先设定的安全阀值时，将产生一条血压预警信息上传至平台，并推送至关注老人可穿戴设备的会员APP上。
 
@@ -729,7 +679,7 @@ https://www.ggva.cn/platform/login
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps86.jpg) 
 
-#### ***\*SOS预警\****
+#### **SOS预警**
 
 SOS预警表示当老人通过可穿戴设备发起紧急呼救时，将产生一条SOS紧急呼叫预警信息上传至平台，并推送至关注老人可穿戴设备的会员APP上。
 
@@ -739,7 +689,7 @@ SOS预警表示当老人通过可穿戴设备发起紧急呼救时，将产生�
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps87.jpg) 
 
-#### ***\*位置预警\****
+#### **位置预警**
 
 安全位置预警表示当可穿戴设备监测到老人的实时位置超出了预先设定的电子围栏（设备管理模块将介绍电子围栏的设置）时，将产生一条安全位置预警信息上传至平台，并推送至关注老人可穿戴设备的会员APP上。
 
@@ -747,7 +697,7 @@ SOS预警表示当老人通过可穿戴设备发起紧急呼救时，将产生�
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps88.jpg) 
 
-#### ***\*心率预警\****
+#### **心率预警**
 
 心率预警表示当可穿戴设备监测到老人的心率数据超过预先设定的安全阀值时，将产生一条心率预警信息上传至平台，并推送至关注老人可穿戴设备的会员APP上。
 
@@ -1063,7 +1013,7 @@ u 按条件查询员工信息
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps127.jpg) 
 
-#### ***\*添加员工\****
+#### **添加员工**
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps128.jpg) 
 
@@ -1095,19 +1045,19 @@ u 按条件查询员工信息
 
 ### 1) **服务人员管理**
 
-#### ***\*新增服务人员\****
+#### **新增服务人员**
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps131.jpg) 
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps132.jpg) 
 
-#### ***\*编辑/修改服务人员信息\****
+#### **编辑/修改服务人员信息**
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps133.jpg) 
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps134.jpg) 
 
-#### ***\*禁用/取消禁用服务人员账号\****
+#### **禁用/取消禁用服务人员账号**
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps135.jpg) 
 
@@ -1121,11 +1071,11 @@ u 按条件查询员工信息
 
  
 
-#### ***\*删除服务人员账号\****
+#### **删除服务人员账号**
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps137.jpg) 
 
-#### ***\*批量导入服务人员信息\****
+#### **批量导入服务人员信息**
 
 点击“批量导入”按钮，系统将弹出批量导入对话框，按提示下载模板Excel文件，并填写相关员工信息，选定将要导入的员工所属机构（注意：不同机构的员工需要分批次导入），上传Excel文件完成批量导入。
 
@@ -1135,7 +1085,7 @@ u 按条件查询员工信息
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps139.jpg) 
 
-#### ***\*批量导出服务人员信息\****
+#### **批量导出服务人员信息**
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps140.jpg) 
 
@@ -1143,15 +1093,15 @@ u 按条件查询员工信息
 
  
 
-#### ***\*重置服务人员账号登录密码\****
+#### **重置服务人员账号登录密码**
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps141.jpg) 
 
-#### ***\*为服务人员分配会员\****
+#### **为服务人员分配会员**
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps142.jpg) 
 
-#### ***\*按条件查询服务人员信息\****
+#### **按条件查询服务人员信息**
 
  
 
@@ -1165,23 +1115,23 @@ u 按条件查询员工信息
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps144.jpg) 
 
-#### ***\*新增专家\****
+#### **新增专家**
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps145.jpg) 
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps146.jpg) 
 
-#### ***\*编辑/修改专家信息\****
+#### **编辑/修改专家信息**
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps147.jpg) 
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps148.jpg) 
 
-#### ***\*禁用/取消禁用专家账号\****
+#### **禁用/取消禁用专家账号**
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps149.jpg) 
 
-#### ***\*禁用后专家账号将不可登录平台及孝康管家APP\****
+#### **禁用后专家账号将不可登录平台及孝康管家APP**
 
  
 
@@ -1191,11 +1141,11 @@ u 按条件查询员工信息
 
  
 
-#### ***\*删除专家账号\****
+#### **删除专家账号**
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps151.jpg) 
 
-#### ***\*批量导入专家信息\****
+#### **批量导入专家信息**
 
 点击“批量导入”按钮，系统将弹出批量导入对话框，按提示下载模板Excel文件，并填写相关医师信息，选定将要导入的医师所属机构（注意：不同机构的医师需要分批次导入），上传Excel文件完成批量导入。
 
@@ -1209,7 +1159,7 @@ u 按条件查询员工信息
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps153.jpg) 
 
-#### ***\*批量导出专家信息\****
+#### **批量导出专家信息**
 
 批量导出医师信息提供将多名医师的基本信息保存为Excel格式文件并下载到本地的功能。
 
@@ -1219,11 +1169,11 @@ u 按条件查询员工信息
 
  
 
-#### ***\*重置专家账号登录密码\****
+#### **重置专家账号登录密码**
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps155.jpg) 
 
-#### ***\*为专家分配会员\****
+#### **为专家分配会员**
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps156.jpg) 
 
@@ -1233,7 +1183,7 @@ u 按条件查询员工信息
 
  
 
-#### ***\*按条件查询专家信息\****
+#### **按条件查询专家信息**
 
 可按医师的所属机构、登录账号、姓名、职位查询与条件相匹配的医师基本信息
 
@@ -1253,7 +1203,7 @@ u 按条件查询员工信息
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps158.jpg) 
 
-#### ***\*添加志愿者\****
+#### **添加志愿者**
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps159.jpg) 
 
@@ -1277,13 +1227,13 @@ u 按条件查询员工信息
 
 服务设施管理提供对系统中所有服务设施信息的管理功能，主要包含新增服务设施、编辑修改服务设施信息、删除服务设施信息。系统管理员和机构管理员账号可为某个地区添加服务设施，修改所属服务设施信息。系统管理员拥有所有服务设施数据的操作权限，机构管理员则只拥有本身所属服务设施的操作权限。
 
-#### ***\*新增服务设施\****
+#### **新增服务设施**
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps163.jpg) 
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps164.jpg) 
 
-#### ***\*编辑修改服务设施信息\****
+#### **编辑修改服务设施信息**
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps165.jpg) 
 
@@ -1293,7 +1243,7 @@ u 按条件查询员工信息
 
 ### 42) **服务供应商管理**
 
-#### ***\*新增服务供应商\****
+#### **新增服务供应商**
 
  
 
@@ -1303,13 +1253,13 @@ u 按条件查询员工信息
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps169.jpg) 
 
-#### ***\*编辑修改供应商信息\****
+#### **编辑修改供应商信息**
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps170.jpg) 
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps171.jpg) 
 
-#### ***\*服务供应商图片集管理\****
+#### **服务供应商图片集管理**
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps172.jpg) 
 
@@ -1335,17 +1285,17 @@ u 按条件查询员工信息
 
 该模块是统计与市平台结算的服务工单，分为待结算的服务工单、结算中服务工单、已结算服务工单三个模块。三个模块都能导出到excel以及按需查询
 
-#### ***\*待结算服务工单\**** 
+#### **待结算服务工单** 
 
 选择生成结算账单功能的前提是你需要先选择要生成工单账单的工单
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps178.jpg) 
 
-#### ***\*结算中服务工单\****
+#### **结算中服务工单**
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps179.jpg) 
 
-#### ***\*已结算服务工单\****
+#### **已结算服务工单**
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps180.jpg) 
 
@@ -1381,17 +1331,17 @@ u 按条件查询员工信息
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps184.jpg) 
 
-#### ***\*新增终端设备\****
+#### **新增终端设备**
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps185.jpg) 
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps186.jpg) 
 
-#### ***\*删除/批量删除终端设备\****
+#### **删除/批量删除终端设备**
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps187.jpg) 
 
-#### ***\*批量导入终端设备信息\****
+#### **批量导入终端设备信息**
 
 点击“批量导入”按钮，系统将跳转至批量导入操作页面，按提示下载Excel格式的模板文件，并按示例数据格式填写相关终端设备信息，选定将要导入的终端设备所属机构（注意：不同机构的终端设备需要分批次导入），上传Excel文件完成批量导入。
 
@@ -1401,7 +1351,7 @@ u 按条件查询员工信息
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps189.jpg) 
 
-#### ***\*批量导出终端设备信息\****
+#### **批量导出终端设备信息**
 
 批量导出终端设备信息提供将终端设备基本信息保存为Excel格式文件并下载到本地的功能。
 
@@ -1409,13 +1359,13 @@ u 按条件查询员工信息
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps190.jpg) 
 
-#### ***\*分配终端设备到其他机构\****
+#### **分配终端设备到其他机构**
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps191.jpg) 
 
  
 
-#### ***\*按条件查询终端设备\****
+#### **按条件查询终端设备**
 
 可按终端设备所属机构、IMEI号码、设备型号、是否使用查询与之匹配的终端设备信息
 
@@ -1423,7 +1373,7 @@ u 按条件查询员工信息
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps192.jpg) 
 
-#### ***\*解绑\****
+#### **解绑**
 
 可以将绑定在会员用户上的设备进行解绑
 
@@ -1437,13 +1387,13 @@ u 按条件查询员工信息
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps194.jpg) 
 
-#### ***\*联系人设置\****
+#### **联系人设置**
 
 联系人设置即紧急呼叫联系人设置，会员用户输入紧急联系人姓名及电话保存后，当老人遇见紧急情况按下紧急呼叫按钮后，系统将逐个呼叫此处设置的联系人
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps195.jpg) 
 
-#### ***\*提醒设置\****
+#### **提醒设置**
 
 提醒设置主要是对系统的各类数据在终端设备上是否提醒及提醒时间做相关配置，主要包含步长数据、心率数据、天气数据。
 
@@ -1451,25 +1401,25 @@ u 按条件查询员工信息
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps196.jpg) 
 
-#### ***\*数据采集频率设置\****
+#### **数据采集频率设置**
 
 数据采集频率设置即系统对终端设备上的各类数据的采集频率，或者终端设备对各类数据上传到系统平台的频率。
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps197.jpg) 
 
-#### ***\*安全定位设置\****
+#### **安全定位设置**
 
 安全定位设置即电子围栏设置，当会员用户为老人设置一个安全范围，老人携带此智能终端设备走出该安全范围将触发电子围栏报警，提醒相关监护人老人已走出电子围栏设置的安全范围谨防走失。
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps198.jpg) 
 
-#### ***\*心率安全范围设置\****
+#### **心率安全范围设置**
 
 心率安全范围设置即为老人的心率设置一个安全范围，当老人携带的智能终端设置监测到老人的心率超出设置的安全范围将触发报警提醒。
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps199.jpg) 
 
-#### ***\*同步参数设置至终端设备\****
+#### **同步参数设置至终端设备**
 
 同步参数设置至终端设备分两种方式，一种是按设备IMEI号码为每一台设备独立同步，
 
@@ -1489,7 +1439,7 @@ u 按条件查询员工信息
 
 ### 50) **监控设备管理**
 
-#### ***\*新增监控设备\****
+#### **新增监控设备**
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps202.jpg) 
 
@@ -1497,11 +1447,11 @@ u 按条件查询员工信息
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps204.jpg) 
 
-#### ***\*删除/批量删除监控设备\****
+#### **删除/批量删除监控设备**
 
 、![img](https://pensionproject.github.io/docs/image/platform/wps205.jpg)
 
-#### ***\*按条件查询监控设备信息\****
+#### **按条件查询监控设备信息**
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps206.jpg) 
 
@@ -1513,13 +1463,13 @@ u 按条件查询员工信息
 
 对看护设备进行管理。可以增加和删除看护设备。
 
-#### ***\*增加看护设备\****
+#### **增加看护设备**
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps207.jpg) 
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps208.jpg) 
 
-#### ***\*删除看护设备\****
+#### **删除看护设备**
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps209.jpg) 
 
@@ -1545,7 +1495,7 @@ u 按条件查询员工信息
 
  
 
-#### ***\*编辑栏目\****
+#### **编辑栏目**
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps212.jpg) 
 
@@ -1557,7 +1507,7 @@ u 按条件查询员工信息
 
  
 
-#### ***\*删除栏目\****
+#### **删除栏目**
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps214.jpg) 
 
@@ -1573,7 +1523,7 @@ u 按条件查询员工信息
 
  
 
-#### ***\*发布内容、编辑修改内容\****
+#### **发布内容、编辑修改内容**
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps216.jpg) 
 
@@ -1585,7 +1535,7 @@ u 按条件查询员工信息
 
  
 
-#### ***\*归档内容\****
+#### **归档内容**
 
 内容归档后，网站上将不再展示该条内容
 
@@ -1593,7 +1543,7 @@ u 按条件查询员工信息
 
  
 
-#### ***\*删除内容\****
+#### **删除内容**
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps220.jpg) 
 
@@ -1853,13 +1803,13 @@ u 按条件查询员工信息
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps255.jpg) 
 
-## 18. **市区****床位****信息同步****管理**
+## 18. **市区床位信息同步管理**
 
 对已经申请床位并通过的老人进行收集，也可以对老人的床位信息进行更新。
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps256.jpg) 
 
-## 19. **补贴****类型****管理**
+## 19. **补贴类型管理**
 
 对补贴信息进行管理，可以增加补贴信息，修改补贴信息以及删除补贴信息
 
@@ -1873,7 +1823,7 @@ u 按条件查询员工信息
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps259.jpg) 
 
-## 20. **补贴****标准****管理**
+## 20. **补贴标准管理**
 
 对补贴级别进行管理，可以新增补贴级别、修改补贴级别以及删除补贴级别
 
@@ -1901,7 +1851,7 @@ u 按条件查询员工信息
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps263.jpg) 
 
-## 21. **补贴****对象****管理**
+## 21. **补贴对象管理**
 
 ### 1) **查询老人补贴信息**
 
@@ -1921,13 +1871,13 @@ u 按条件查询员工信息
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps267.jpg) 
 
-## 22. **老人补贴****账户管理**
+## 22. **老人补贴账户管理**
 
-### 1) **查询****老人补贴****账户**
+### 1) **查询老人补贴账户**
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps268.jpg) 
 
-### 76) **新增/修改****老人补贴****账户**
+### 76) **新增/修改老人补贴账户**
 
 老人如过世或信息表状态为禁用状态，将无法为老人设置补贴信息
 
@@ -1937,7 +1887,7 @@ u 按条件查询员工信息
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps270.jpg) 
 
-### 77) **老人补贴****账户补贴发放**
+### 77) **老人补贴账户补贴发放**
 
 可通过此功能为老人发放相关的养老服务补贴，补贴账户标记为停发状态的，自标记之日起补贴不再发放，但余额可交易，如标记为“冻结”状态，则自标记之日起补贴不再发放，余额不可进行交易。
 
@@ -1945,7 +1895,7 @@ u 按条件查询员工信息
 
 ![img](https://pensionproject.github.io/docs/image/platform/wps271.jpg) 
 
-### 78) **禁用****老人补贴****账户**
+### 78) **禁用老人补贴账户**
 
  
 
@@ -2023,7 +1973,7 @@ u 按条件查询员工信息
 
  
 
- 
+ ``
 
  
 
