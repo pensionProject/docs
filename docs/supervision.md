@@ -159,7 +159,7 @@
 
  
 
-![img](file:///C:\Users\53653\AppData\Local\Temp\ksohtml90000\wps366.jpg) 
+![img](https://pensionproject.github.io/docs/image/supervision\wps366.jpg) 
 
  
 
@@ -231,7 +231,7 @@
 
 1. 点击左侧功能树中基础信息监管-为老服务设施按钮，如图3.2.1所示。
 
-![img](file:///C:\Users\53653\AppData\Local\Temp\ksohtml90000\wps370.jpg)图 3.2.1 为老服务设施多样化数据展示
+![img](https://pensionproject.github.io/docs/image/supervision\wps370.jpg)图 3.2.1 为老服务设施多样化数据展示
 
  
 
@@ -285,7 +285,7 @@
 
  
 
-![img](file:///C:\Users\53653\AppData\Local\Temp\ksohtml90000\wps373.jpg) 
+![img](https://pensionproject.github.io/docs/image/supervision\wps373.jpg) 
 
 图 3.3.1 服务供应商多样化数据展示
 
@@ -610,7 +610,7 @@
 
  
 
-![img](file:///C:\Users\53653\AppData\Local\Temp\ksohtml90000\wps388.jpg) 
+![img](https://pensionproject.github.io/docs/image/supervision\wps388.jpg) 
 
  
 
@@ -700,7 +700,7 @@
 
  
 
-![img](file:///C:\Users\53653\AppData\Local\Temp\ksohtml90000\wps392.jpg) 
+![img](https://pensionproject.github.io/docs/image/supervision\wps392.jpg) 
 
 图 5.2.4.1老年大学
 
@@ -744,7 +744,7 @@
 
  
 
-![img](file:///C:\Users\53653\AppData\Local\Temp\ksohtml90000\wps394.jpg) 
+![img](https://pensionproject.github.io/docs/image/supervision\wps394.jpg) 
 
 图 5.2.5.1老人服务
 
@@ -764,7 +764,7 @@
 
  
 
-![img](file:///C:\Users\53653\AppData\Local\Temp\ksohtml90000\wps395.jpg) 
+![img](https://pensionproject.github.io/docs/image/supervision\wps395.jpg) 
 
 图 5.2.5.2老人服务详情
 
@@ -812,7 +812,7 @@
 
  
 
-![img](file:///C:\Users\53653\AppData\Local\Temp\ksohtml90000\wps397.jpg) 
+![img](https://pensionproject.github.io/docs/image/supervision\wps397.jpg) 
 
 图 5.2.7.1台账统计
 
@@ -968,7 +968,7 @@
 
 2. 点击列表上方tabs补贴支出记录标签按钮，如图6.1.1.2所示。
 
-![img](file:///C:\Users\53653\AppData\Local\Temp\ksohtml90000\wps405.jpg) 
+![img](https://pensionproject.github.io/docs/image/supervision\wps405.jpg) 
 
 图 6.1.2补贴支出记录
 
@@ -978,7 +978,7 @@
 
  
 
-![img](file:///C:\Users\53653\AppData\Local\Temp\ksohtml90000\wps406.jpg) 
+![img](https://pensionproject.github.io/docs/image/supervision\wps406.jpg) 
 
 图 6.1.3服务工单记录
 
@@ -1078,7 +1078,7 @@ tabs切换：查看穿戴设备列表/监控设备列表/看护设备列表数�
 
 1. 点击左侧功能树中综合信息监管-供应商服务时长统计按钮，如图6.4.1所示。
 
-![img](file:///C:\Users\53653\AppData\Local\Temp\ksohtml90000\wps412.jpg) 
+![img](https://pensionproject.github.io/docs/image/supervision\wps412.jpg) 
 
 图 6.4.1供应商服务时长统计
 
@@ -1309,7 +1309,7 @@ l 取消：取消当前操作。
 
  
 
-![img](file:///C:\Users\53653\AppData\Local\Temp\ksohtml90000\wps425.jpg) 
+![img](https://pensionproject.github.io/docs/image/supervision/wps425.jpg) 
 
  
 
@@ -1333,7 +1333,7 @@ l 取消：取消当前操作。
 
 点击左侧功能树中业务信息监管-养老地图按钮，默认显示服务设施数据，如图7.4.1所示。
 
-![img](file:///C:\Users\53653\AppData\Local\Temp\ksohtml90000\wps426.jpg) 
+![img](https://pensionproject.github.io/docs/image/supervision/wps426.jpg) 
 
  
 
@@ -1343,7 +1343,7 @@ l 取消：取消当前操作。
 
 l 点击图标：弹出相应的基本信息展示，如图7.4.2所示。
 
-![img](file:///C:\Users\53653\AppData\Local\Temp\ksohtml90000\wps427.jpg) 
+![img](https://pensionproject.github.io/docs/image/supervision/wps427.jpg) 
 
 图7.4.2养老地图-服务设施
 
@@ -1355,7 +1355,7 @@ l 点击图标：弹出相应的基本信息展示，如图7.4.2所示。
 
  
 
-![img](file:///C:\Users\53653\AppData\Local\Temp\ksohtml90000\wps428.jpg) 
+![img](https://pensionproject.github.io/docs/image/supervision/wps428.jpg) 
 
  
 
@@ -1369,7 +1369,7 @@ l 点击图标：弹出相应的基本信息展示，如图7.4.2所示。
 
  
 
-![img](file:///C:\Users\53653\AppData\Local\Temp\ksohtml90000\wps429.jpg) 
+![img](https://pensionproject.github.io/docs/image/supervision/wps429.jpg) 
 
  
 
