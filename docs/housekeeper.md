@@ -1,394 +1,413 @@
 
 
-
 # **第1章系统概述**
 
-基于安卓、IOS开发养老用户APP，使用对象主要为老人及其老人子女。本软件主要包括首页、关注、健康数据、健康报告、我的、健康报警、周边安全。其中，健康数据包括步数、心率、血压、血糖、睡眠等检测数据；健康报告包括健康数据、健康档案、体检报告、医师建议；关注包括我关注的人、关注我的人、我的机构人员；我的包括我的终端设备、修改密码、意见反馈、APP使用说明、推荐分享等功能。
+基于安卓、IOS开发养老管家APP，使用对象主要为、服务人员、养老机构管理人员以及政府管理人员。可提供服务工单管理、预约服务、健康管理、设备管理、安全预警、护理管理等功能。
 
-# **第2章系统登录**
+# 第2章系统登录**
 
 ## **2.1登录**
 
-用户可以选择手机号登录，也可以使用第三方微信登录APP。如果是手机号登录，请输入手机号和密码，然后点击“登录”按钮。
+用户输入登录账号、密码后，点击登录按钮可进入主页面。
 
-如果用户使用第三方微信登录，点击“微信”图标，进入第三方授权页面。
+![img](housekeeper.assets/wps129.jpg) 
 
-![img](https://pensionproject.github.io/docs/image/housekeeper/wps18.jpg) 
+图 2-1 登录页面
 
-图 2-1
-
-## **2.2 注册** 
-
-点击登录页面（图2-1）的“快速注册”按钮，进入注册登录页面。输入手机号、手机号验证码、以及登录密码，点击“注册按钮”，进入个人信息完善页面（图2-3）。
-
-用户可以跳过完善信息页面。
-
-![img](https://pensionproject.github.io/docs/image/housekeeper/wps19.jpg) 
-![img](https://pensionproject.github.io/docs/image/housekeeper/wps20.jpg)
-
-​      图 2-2 用户注册            图 2-3 完善信息
+ 
 
 # **第3章首页**
 
-用户登录APP后，进入首页可以查看到自己今天的健康信息等内容。
+## **3.1会员管理**
 
-![img](https://pensionproject.github.io/docs/image/housekeeper/wps21.jpg) 
+### **3.1.1会员列表**
 
-图 3-1-1 首页
+点击首页中的“会员管理”模块，进入省市区街道分级列表页面(图 3-1-1)。选择社区，点击进入即可进入到老人列表页面(图 3-1-2)，会员列表页面数据可以通过上拉的方式进行刷新，也可以通过下拉的方式获取更多的数据。
 
-## **3.1健康报警**
+![img](housekeeper.assets/wps130.jpg)    ![img](file:///C:\Users\53653\AppData\Local\Temp\ksohtml18884\wps131.jpg)
 
-点击首页中的“健康报警”按钮，进入健康报警页面（图 3-1-2），查看关注人的健康报警信息,包括位置信息、血压、心率等。
+​      图3-1-1 街道列表           图3-1-2 街道列表   
 
-![img](https://pensionproject.github.io/docs/image/housekeeper/wps22.jpg) 
+### **3.1.2搜索会员** 
 
-图3-1-2 预警信息
+用户可以根据老人姓名、身份证号、手机号进行搜索。点击导航栏右侧的![img](housekeeper.assets/wps132.jpg)图标进入到搜索页面（图 3-1-3）。输入姓名或者身份证号，点击键盘上的搜索按钮即可查询到老人结果。
 
- 
+![img](housekeeper.assets/wps133.jpg) 
 
-用户可以清空当前预警信息列表和关闭提醒：点击预警列表页面（图3-1-2）右上角中的设置按钮，进入消息设置页面（图 3-1-3）。
+图 3-1-3
 
-![img](https://pensionproject.github.io/docs/image/housekeeper/wps23.jpg) 
+### **3.1.3新增会员**
 
-图 3-1-3 消息设置
+在街道列表页面顶部，点击“新增会员”列，进入到新增会员页面（图 3-1-4），填写老人各项基本信息。如果老人存在穿戴设备，开启有终端设备并填写设备的IMEI编号（图 3-1-5）。
 
-## **3.2周边安全**
+确保会员信息无误后，点击“保存”按钮，返回上一页面就添加成功。
 
-点击首页中的“周边安全”模块，进入地图周边安全页面（图 3-1-4），可以查看老人当前的位置信息，可以设置电子围栏防止老人走丢。
+![img](housekeeper.assets/wps134.jpg) ![img](file:///C:\Users\53653\AppData\Local\Temp\ksohtml18884\wps135.jpg)
 
-![img](https://pensionproject.github.io/docs/image/housekeeper/wps24.jpg) 
+​      图 3-1-4 新增会员          图 3-1-5 新增会员
 
-图 3-1-4 周边安全
+### **3.1.4查看详情**
 
-## **3.3健康报告**
+在会员列表（图3-1-2)页面中，点击需要查看详情的老人，进入到老人详情页面（图 3-1-6），可以对老人的基本信息、健康信息、亲属信息、健康报告等信息进行查看操作。
 
-### **3.3.1健康数据**
+![img](housekeeper.assets/wps136.jpg) 
 
-用户可以查看自己以及关注人的健康数据信息，点击首页中的“健康报告模块”，进入健康数据界面（图 3-1-5）：
+图 3-1-6 详情页面
 
-![img](https://pensionproject.github.io/docs/image/housekeeper/wps25.jpg) 
+## **3.2安全管理**
 
-图 3-1-5 健康数据页面
+管理员可以对老人当前在线的穿戴设备位置信息等进行查看(图 3-2-1)，包括老人设备号、当前设备位置、以及更新位置时间。
 
-### **3.3.2 健康档案**
+![img](housekeeper.assets/wps137.jpg) 
 
-点击顶部分页栏的“健康档案”按钮，切换到健康档案页面，用户可以查看选择的老人的档案信息（图 3-1-6）。
+图 3-2-1 在线设备页面
 
-![img](https://pensionproject.github.io/docs/image/housekeeper/wps26.jpg) 
+### **3.2.1查看轨迹**
 
-图 3-1-6 健康档案
-
-### **3.3.4 体检报告**
-
-点击顶部分页栏的“体检报告”按钮，切换到体检报告页面，用户可以查看选择的关注人的体检报告（图 3-1-7）。
-
-![img](https://pensionproject.github.io/docs/image/housekeeper/wps27.jpg) 
-
-图 3-1-7 体检报告
-
-用户可以详细地查看某一项详细数据，选择体检报告中要查看的一项数据详情，点击进入详情页面：
-
-![img](https://pensionproject.github.io/docs/image/housekeeper/wps28.jpg) 
-
-图 3-1-8 体检详情
-
-### **3.3.5 医师建议**
-
-点击顶部分页栏的“医师建议”按钮，切换到医师建议列表页面（图3-1-9），用户可以查看选择的老人的医师建议。
+选择某个设备的标注图，点击“轨迹”按钮，进入到老人设备轨迹页面（图 3-2-2），管理员也可以选择某个日期进行查看老人轨迹。
 
  
 
-![img](https://pensionproject.github.io/docs/image/housekeeper/wps29.jpg) 
+### **3.2.2重新定位**
 
-图 3-1-9 医师建议
-
-### **3.3.6健康评测**
-
-点击顶部分页栏的“健康评测”按钮，切换到健康评测列表页面（图3-1-10），用户可以查看选择的老人的各项健康评测。
-
-![img](https://pensionproject.github.io/docs/image/housekeeper/wps30.jpg)  
-![img](https://pensionproject.github.io/docs/image/housekeeper/wps31.jpg)
-
-​    图 3-1-10 健康评测           图 3-1-11 评测详情
-
-## **3.4 发送消息**
-
-用户可以给当前关注的人的手表发送语音消息。在首页中点击
-![img](https://pensionproject.github.io/docs/image/housekeeper/wps32.jpg)按钮，在弹出的内容编辑页面中填写语音内容，点击“发送”按钮。
-
- 
-
-![img](https://pensionproject.github.io/docs/image/housekeeper/wps33.jpg) 
-
-图 3-1-12 发送消息
-
-## **3.5紧急呼救**
-
-用户在发现关注人摔倒、走失等异常情况时，可以给自己的关注人穿戴的智能设备进行紧急电话呼救，在首页中点击![img](https://pensionproject.github.io/docs/image/housekeeper/wps34.jpg)按钮，给老人的手表拨打电话。
-
- 
-
-# **第4章关注**
-
-## **4.1 添加关注人**
-
-在首页（图3-1-1）中，用户可以点击
-![img](https://pensionproject.github.io/docs/image/housekeeper/wps35.jpg)按钮，进入到添加关注人界面（图 4-1-1）：
-
-1）输入关注人的穿戴设备的IEMI编号和昵称，点击下一步，成功后回到首页。
-
-![img](https://pensionproject.github.io/docs/image/housekeeper/wps36.jpg) 
-
-
-
-图 4-1-1 添加关注人
-
-## **4.2关注列表**
-
-用户选择“关注”模块，进入到关注列表页面（图 4-1-2），可以查看我关注的人和别人关注我的用户，以及关注我的机构人员等列表信息。
-
-![img](https://pensionproject.github.io/docs/image/housekeeper/wps37.jpg) 
-
-图 4-1-2 关注列表
-
-
-
-## **4.3关注人详情**
-
-用户可以查看关注人的详情信息，在关注列表页面（图 4-1-2）中，点击人员，进入到详情页面（图4-1-3），显示此人明细，可以查看此人的终端设备、健康报告、位置信息、服务工单和商品订单等信息。
-
-![img](https://pensionproject.github.io/docs/image/housekeeper/wps38.jpg) 
-
-图 4-1-3 详情页面
-
-
-
-# **第5章健康管理**
-
- 
-
-在首页（图 5-1-1），用户可以对当前每一项的健康数据进行查看，包括：步数、心率、血压、血氧、血糖、睡眠等。
-
-![img](https://pensionproject.github.io/docs/image/housekeeper/wps39.jpg) 
-
-图 5-1-1 首页
-
-## **5.1 步数详情**
-
-在首页（5-1-1）中点击“步数”一项，进入到步数数据页面（图 5-1-2）。
-
-用户可以设置关注人的每日的目标步数。点击右上角的
-![img](https://pensionproject.github.io/docs/image/housekeeper/wps40.jpg)按钮，进入到步数提醒（图 5-1-3）。
-
-![img](https://pensionproject.github.io/docs/image/housekeeper/wps41.jpg)  
-![img](https://pensionproject.github.io/docs/image/housekeeper/wps42.jpg)
-
-​    图 5-1-2 步数数据          图 5-1-3 步数设置
-
- 
-
-## **5.2心率测量**
-
-在首页中点击“心率”数据选项，进入心率测量页面（图 5-1-4），点击测量按钮，等待两分钟后刷新结果。
-
-![img](https://pensionproject.github.io/docs/image/housekeeper/wps43.jpg) 
-
-图 5-1-4 心率测量
-
- 
-
-## **5.3录入血压**
-
-在首页中点击“血压”数据选项，进入到血压数据详情页面（图5-1-5），点击“录入血压”按钮，进入到录入血压页面（图5-1-6）。
-
-![img](https://pensionproject.github.io/docs/image/housekeeper/wps44.jpg) 
-![img](https://pensionproject.github.io/docs/image/housekeeper/wps45.jpg)
-
-​      图 5-1-5 血压数据              图5-1-6 录入血压
-
-## **5.4录入血糖**
-
-在首页中点击“血糖”数据选项，进入到血糖数据详情页面（图5-1-5），点击“录入血糖”按钮，进入到录入血糖页面（图5-1-6）。
-
-![img](https://pensionproject.github.io/docs/image/housekeeper/wps46.jpg) 
-![img](https://pensionproject.github.io/docs/image/housekeeper/wps47.jpg)
-
-   图 5-1-7 血糖数据页面               图 5-1-8 录入血糖
-
-## **5.5睡眠数据**
-
-在首页中，点击“睡眠”数据，进入到睡眠数据监测界面（图 5-1-9），可以查询一段时间内的睡眠数据。
-
-![img](https://pensionproject.github.io/docs/image/housekeeper/wps48.jpg)
-
-图 5-1-9 睡眠数据
-
- 
-
-# **第6章商城**
-
-用户点击“商城”，进入商城页面（图 6-1-1），可以进行购买自己感兴趣的商品或者服务。
-
-![img](https://pensionproject.github.io/docs/image/housekeeper/wps49.jpg) 
-
-图 6-1-1 商城
-
- 
-
-# **第7章我的**
-
-## **7.1基本信息**
-
-用户进入“我的”页面（图 7-1-1），点击头像进入到用户基本详情信息页面（图 7-1-2）。
-
-用户可以编辑修改自己的个人信息。
-
- 
-
-![img](https://pensionproject.github.io/docs/image/housekeeper/wps50.jpg) 
-![img](https://pensionproject.github.io/docs/image/housekeeper/wps51.jpg)
-
-图 7-1-1 我的        图 7-1-2 基本信息
-
- 
-
-## **7.2 我的终端设备**
-
-在“我的”页面中，选择“终端设备”项，进入到我的终端设备列表页面（图 7-1-3），用户可以对设备进行设置和解绑，也可以绑定新设备。
-
-![img](https://pensionproject.github.io/docs/image/housekeeper/wps52.jpg)
-
-图 7-1-3 设备列表
-
-### **7.2.1 绑定终端设备**
-
-用户在设备列表页面（图 7-1-3）中可以点击信息点击“新增”按钮，进入绑定设备页面（图 7-1-4），输入设备的IMEI号和关联SIM卡号，点击“绑定”按钮。
-
-![img](https://pensionproject.github.io/docs/image/housekeeper/wps53.jpg) 
-
-图 7-1-4 绑定页面
-
-### **7.2.2联系人设置**
-
-用户选择在设备列表页面（图 7-1-3），选择一个设备，点击“设置”按钮，进入到终端设备设置页面（图 7-1-5），选择“联系人设置选项”，进入到联系人设置页面（图7-1-6），点击
-![img](https://pensionproject.github.io/docs/image/housekeeper/wps54.jpg)按钮，输入姓名、电话信息。
-
-![img](https://pensionproject.github.io/docs/image/housekeeper/wps55.jpg)
-![img](https://pensionproject.github.io/docs/image/housekeeper/wps56.jpg)
-![img](https://pensionproject.github.io/docs/image/housekeeper/wps57.jpg)
-
-图 7-1-5 设置       图 7-1-6 联系人设置     图7-1-7 添加联系人
+点击地图标注中的“定位”按钮，可以对老人的位置进行重新定位，并更新当前位置。
 
  
 
  
 
+![img](housekeeper.assets/wps138.jpg) 
 
+图 3-2-2 轨迹页面
 
-### **7.2.3心率安全范围设置**
+### **3.2.3查询老人位置**
 
-用户可以根据自己的体质，给绑定的设备设置不同的安全心率范围。在设置页面（7-1-5）中点击“心率安全范围设置”，进入心率设置页面（图 7-1-8）。
+管理员也可以对老人的设备位置进行搜索，点击地图页面中的![img](housekeeper.assets/wps139.jpg)按钮，进入到设备位置搜索页面（图 3-2-3），输入老人的姓名或者老人绑定的设备号，查询结果后点击跳转到地图页面，定位到当前搜索的位置。
 
-输入最高心率和最低心率值，设置提醒开关，点击保存。
+![img](housekeeper.assets/wps140.jpg) 
 
-![img](https://pensionproject.github.io/docs/image/housekeeper/wps58.jpg) 
-
-图 7-1-8 心率设置
-
-### **7.2.4安全定位设置**
-
-用户可以设置穿戴设备的定位数据即电子围栏。
-
-在设备设置页面中，选择“安全定位设置”，进入到定位设置页面（图 7-1-9），设置设备提醒位置的中心点，以及设备的安全范围。
-
-![img](https://pensionproject.github.io/docs/image/housekeeper/wps59.jpg) 
-
-图 7-1-9 安全定位设置
-
-### **7.2.5语音提醒**
-
-用户可以给终端设备设置语音提醒，在设备设置页面中选择“语音提醒”，进入语音提醒设置页面（图 7-1-10）。
-
-1）点击![img](https://pensionproject.github.io/docs/image/housekeeper/wps60.jpg)按钮，进入到语音设置页面，新增一个语音提醒。
-
-2）选择提醒类型，选择提醒时间，选择语音类型后点击保存。
-
-![img](https://pensionproject.github.io/docs/image/housekeeper/wps61.jpg)
-![img](https://pensionproject.github.io/docs/image/housekeeper/wps62.jpg)
-
-​      图 7-1-10 语音设置        图 7-1-11 语音设置页面  
-
-## **7.3电子钱包**
-
-用户可以查看自己的电子钱包账户，在我的中选择“电子钱包”进入到电子钱包页面（图 7-1-12）。
-
-用户点击“我的账单”按钮，进入到账单页面（图 7-1-13）可以查看用户当前账单详情。
-
-![img](https://pensionproject.github.io/docs/image/housekeeper/wps63.jpg) 
-![img](https://pensionproject.github.io/docs/image/housekeeper/wps64.jpg)
-
-​    图 7-1-12 电子钱包          图 7-1-13 账单详情
-
-
-
-## **7.4我的订单**
-
-用户在我的页面中点击“商品订单”或者“服务订单”，进入购买的订单列表页面中（图 7-1-14），可以查看订单详情、服务日志、评价功能。
-
-![img](https://pensionproject.github.io/docs/image/housekeeper/wps65.jpg) 
-
-图 7-1-14 订单页面
+图 3-2-3 位置搜索页面
 
  
 
-## **7.5我的收藏**
+ 
 
-用户在“我的”页面中，选择收藏列表下的“商品”或“服务”，进入收藏页面（图 7-1-15）可以查看用户当前收藏的商品盒服务信息。
+## **3.3工单管理**
 
-![img](https://pensionproject.github.io/docs/image/housekeeper/wps66.jpg) 
+### **3.3.1待办工单列表**
 
-图 7-1-15 收藏商品
+管理员选择首页模块中的“工单管理”按钮，点击进入到工单待办列表页面（图 3-3-1）。服务人员登录后直接进入待办工单列表页面（图 3-3-2）。待办工单列表页面中显示管理员或者服务人员待办的工单。
+
+![img](file:///C:\Users\53653\AppData\Local\Temp\ksohtml18884\wps141.jpg)  ![img](housekeeper.assets/wps142.jpg)
+
+​     图 3-3-1 待办工单列表              图 3-3-2 待办工单列表
+
+### **3.3.2全部工单**
+
+点击待办工单列表导航中的![img](housekeeper.assets/wps143.jpg)按钮，进入到全部工单列表页面中（图 3-3-3），全部工单列表中按照工单状态进行分类查询。
+
+![img](housekeeper.assets/wps144.jpg) 
+
+图 3-3-3 全部工单列表
+
+### **3.3.3工单详情**
+
+点击列表项，进入详情页面（图 3-3-4）。可以查看工单的服务对象、预约时间、服务人员、服务地址等基本信息。
+
+![img](housekeeper.assets/wps145.jpg) 
+
+图 3-3-4 工单详情
 
  
 
-## **7.6设置**
+### **3.3.4服务日志**
 
-### **7.6.1修改密码**
+点击列表项中的“服务日志”按钮，进入服务日志详情页面（图 3-3-5），可以方便地查看这个服务工单从预约下单到完成服务的这个日志记录。
 
-用户可以对自己的登录密码进行修改，点击“我的”页面的设置选项，进入到设置页面（图 7-1-16），点击“修改密码”，进入到修改密码页面。
+![img](housekeeper.assets/wps146.jpg) 
 
-输入旧密码和新密码后点击保存。
+### **3.3.5服务分配**
 
-![img](https://pensionproject.github.io/docs/image/housekeeper/wps67.jpg) 
-![img](https://pensionproject.github.io/docs/image/housekeeper/wps68.jpg)
+工单状态是待分配状态时（图3-3-6），运营管理员可以对工单进行派单分配到指定的服务人员。
 
-  图 7-1-16 设置页面          图 7-1-17 修改密码
+点击工单详情页面中“派单”按钮，跳转到选择服务人员页面（图3-3-7）页面中，选择指定的服务人员后，点击“提交”按钮，请求数据成功返回页面后分配服务人员成功。
+
+![img](file:///C:\Users\53653\AppData\Local\Temp\ksohtml18884\wps147.jpg)  ![img](housekeeper.assets/wps148.jpg)
+
+​      图 3-3-6 服务分配         图 3-3-7 选择服务人员
+
+### **3.3.6服务审核**
+
+服务工单状态变成完成待审核状态时，运营管理员可以对工单日志进行审核操作，确认工单正常完成。
+
+进入要审核工单的详情页面（3-3-8），点击“点击完成工单”按钮，完成工单的审核操作。
+
+![img](housekeeper.assets/wps149.jpg) 
+
+图 3-3-8 工单审核
+
+ 
+
+### **3.3.7服务轨迹**
+
+服务人员和管理人员均可查看服务轨迹。根据当前手机定位点到需要服务的地址之间进行轨迹规划。
+
+选择列表项中的“查看轨迹”按钮，进入到地图轨迹页面（图 3-3-9）。
+
+![img](housekeeper.assets/wps150.png) 
+
+图 3-3-9 服务轨迹
+
+### **3.3.8上传日志**
+
+上传日志功能，只有服务人员能够操作，主要是对老人进行工单服务时，需要按照要求对服务的三个步骤进行照片上传：
+
+1) 上传服务开始照片，进入要上传日志的服务详情（图 3-3-10），点击“上传服务开始照片”按钮，进入编辑日志页面（图 3-3-11）填写服务日志内容，上传服务图片。
+
+2) 上传服务中的照片，进入要上传日志的服务详情（图 3-3-12），点击“上传服务中照片”按钮，进入编辑日志页面（图 3-3-11）填写服务日志内容，上传服务图片。
+
+3) 上传服务结束照片，进入要上传日志的服务详情（图 3-3-13），点击“上传服务结束照片”按钮，进入编辑日志页面（图 3-3-11）,填写服务日志内容，上传服务图片。
+
+4) 提交服务日志：服务日志三个步骤完成后，在工单详情中点击提交审核按钮（图 3-3-14）。
 
  
 
-### **7.6.2帮助**
+![img](file:///C:\Users\53653\AppData\Local\Temp\ksohtml18884\wps151.jpg)  ![img](housekeeper.assets/wps152.jpg)
 
-用户对操作不熟悉可以查询帮助页面，点击设置页面中“帮助”选项，进入到帮助页面（图 7-1-18）。
+图 3-3-10 开始服务              图 3-3-11 编辑服务日志
 
-![img](https://pensionproject.github.io/docs/image/housekeeper/wps69.jpg) 
+![img](file:///C:\Users\53653\AppData\Local\Temp\ksohtml18884\wps153.jpg)  ![img](housekeeper.assets/wps154.jpg)
 
-图 7-1-18 帮助页面
+​      图 3-3-12 服务中               图 3-3-13 开始服务
 
-### **7.6.3意见反馈**
+![img](housekeeper.assets/wps155.jpg) 
 
-用户可以填写意见反馈功能。点击设置页面中的关于我们，进入到关于我们页面，选择“意见反馈”，进入到编辑页面（图 7-1-20），填写相关后保存。
-
-![img](https://pensionproject.github.io/docs/image/housekeeper/wps70.jpg) 
-
-图7-1-20 意见反馈
-
-### **7.6.4交易投诉**
-
-用户可以对有争议的服务账单提出投诉申请，在设置页面中选择“交易投诉”进入到页面（图 7-1-21），点击“发起投诉”按钮，进入投诉页面（图 7-1-22），填写原因和截图。
-
-![img](https://pensionproject.github.io/docs/image/housekeeper/wps71.jpg)
-![img](https://pensionproject.github.io/docs/image/housekeeper/wps72.jpg)
-
-​     图 7-1-21 交易投诉列表           图 7-1-22 编辑交易投诉
+图 3-3-14 提交审核 
 
  
+
+## **3.4会员测量**
+
+选择“首页”中的会员测量模块，进入到会员测量页面（图 3-4-1），会员测量包含血压测量、心电测量、血氧测量、体温测量四个模块。
+
+![img](housekeeper.assets/wps156.jpg) 
+
+图3-4-1 会员测量
+
+ 
+
+1）如果手机未打开蓝牙，会弹出提示弹窗去系统设置页面打开蓝牙连接（图 3-4-2）。
+
+2）打开蓝牙后，APP会自动扫描周围设备，弹出可连接蓝牙的设备列表。
+
+3）选择需要连接的蓝牙设备进行连接。
+
+4）连接成功后就可以使用四个测量功能。
+
+![img](housekeeper.assets/wps157.png) 
+
+图 3-4-2 蓝牙提示
+
+ 
+
+### **3.4.1血压测量**
+
+点击会员测量列表中的“血压测量”按钮，进入到血压测量页面（图3-4-3）。
+
+1）点击“开始测量”按钮，安静等待血压仪测量结束。
+
+2）测量结束后，点击选择老人，进入老人列表页面，选择需要保存数据的老人，点击确定。
+
+ ![img](housekeeper.assets/wps158.png)
+
+​                图 3-4-3 血压测量    
+
+### **3.4.2心电测量**
+
+点击会员测量列表中的“心电测量”按钮，进入到心电测量页面（图3-4-4）。
+
+1）点击“开始测量”按钮，安静等待心电仪测量结束。
+
+2）测量结束后，点击选择老人，进入老人列表页面，选择需要保存数据的老人，点击确定。
+
+![img](housekeeper.assets/wps159.png) 
+
+图 3-4-4 心电测量
+
+### **3.4.3血氧测量**
+
+点击会员测量列表中的“血氧测量”按钮，进入到血氧测量页面（图3-4-5）。
+
+1）点击“开始测量”按钮，安静等待血氧仪测量结束。
+
+2）测量结束后，点击选择老人，进入老人列表页面，选择需要保存数据的老人，点击确定。
+
+![img](housekeeper.assets/wps160.png) 
+
+图3-4-5 血氧测量
+
+ 
+
+### **3.4.4体温测量**
+
+点击会员测量列表中的“体温测量”按钮，进入到体温测量页面（图3-4-5）。
+
+1）点击“开始测量”按钮，安静等待体温测量结束。
+
+2）测量结束后，点击选择老人，进入老人列表页面，选择需要保存数据的老人，点击确定。
+
+![img](housekeeper.assets/wps161.png) 
+
+图 3-4-6 体温测量
+
+## **3.5设备设置**
+
+点击首页中的“设置”模块，进入到设置页面（图 3-5-1），显示当前登录账号下所有的区域。
+
+选择社区，进入到社区老人列表（图 3-5-2），点击老人列表项，进入到老人的设备列表（图3-5-3）。点击“设置”按钮，进入设备设置页面。
+
+![img](file:///C:\Users\53653\AppData\Local\Temp\ksohtml18884\wps162.png) ![img](housekeeper.assets/wps163.jpg)![img](file:///C:\Users\53653\AppData\Local\Temp\ksohtml18884\wps164.jpg)
+
+图 3-5-1 设置页面       图 3-5-2 老人列表       图 3-5-3 老人设备
+
+### **3.5.1紧急联系人设置**
+
+选择设备设置选项中的“紧急联系人设置”（图3-5-4），为设备进行紧急呼救设置联系人。
+
+1）新增紧急联系人：点击右上角的![img](housekeeper.assets/wps165.jpg)按钮，进入到新增紧急人页面（图3-5-5）。
+
+2）删除紧急联系人：选择紧急人列表项，点击“删除”按钮，在弹出提示框后点击确认进行删除。（图3-5-6）
+
+3）修改紧急联系人：选择要修改的联系人项，进入修改页面，重新编写联系人电话或者姓名，点击“保存”按钮。
+
+ 
+
+![img](housekeeper.assets/wps166.jpg) ![img](file:///C:\Users\53653\AppData\Local\Temp\ksohtml18884\wps167.jpg) ![img](file:///C:\Users\53653\AppData\Local\Temp\ksohtml18884\wps168.jpg)
+
+​    图 3-5-4 设备设置      图 3-5-5 新增联系人      图3-5-6 删除联系人
+
+### **3.5.2提醒设置**
+
+选择设备设置中“提醒设置”选项，进入提醒设置页面（图 3-5-7），提醒设置包含睡眠、心率、运动三个选项。
+
+1）睡眠设置：点击“睡眠设置”选项，进入到睡眠设置页面，选择提醒时间以及提醒开关后，点击保存（图3-5-8）。
+
+2）心率设置：点击“心率设置”选项，进入到心率设置页面，选择提醒时间以及提醒开关后，点击保存（图3-5-8）。
+
+3）运动设置：点击“运动设置”选项，进入到运动设置页面，选择提醒时间以及提醒开关后，点击保存（图3-5-8）。
+
+ 
+
+![img](housekeeper.assets/wps169.jpg) ![img](file:///C:\Users\53653\AppData\Local\Temp\ksohtml18884\wps170.jpg)
+
+​        图 3-5-7 提醒设置          图 3-5-8 保存设置
+
+ 
+
+### **3.5.3心率安全范围设置**
+
+在设置页面中选择“心率安全范围设置”选项，进入心率范围设置页面（图3-5-9），填写心率安全的返回，以及提醒开关设置，最后点击保存按钮。
+
+![img](housekeeper.assets/wps171.jpg) 
+
+图 3-5-9 心率设置
+
+### **3.5.4安全定位设置**
+
+可以对设备的安全范围进行设置，选择设置页面中的“安全位置”选项，进入到安全范围设置页面（图3-5-10）。
+
+1）在地图上点击，选择一个老人安全范围的中心点。
+
+2）然后设置安全范围的半径、以及提醒开关。
+
+3）点击保存退出设置页面。
+
+![img](housekeeper.assets/wps172.jpg) 
+
+图3-5-10 安全范围设置
+
+ 
+
+## **3.6照护管理**
+
+用户可以对老人进行照护管理，包括爱记录管理和护理记录管理。选择首页中的“照护管理”模块，进入到照护管理页面（图 3-6-1）。
+
+### **3.6.1爱记录**
+
+选择照护管理页面中的“爱记录”模块。进入今日的爱记录数据列表页面（图 3-6-2）。
+
+点击右上角的“添加按钮”，进入到入住老人列表页面（图3-6-3）,选择一个需要进行录的老人，点击右下角的“确定按钮”。 
+
+弹出爱记录列表框，勾选做过的内容然后点击保存（图3-6-4）。
+
+![img](housekeeper.assets/wps173.jpg)![img](file:///C:\Users\53653\AppData\Local\Temp\ksohtml18884\wps174.jpg)![img](file:///C:\Users\53653\AppData\Local\Temp\ksohtml18884\wps175.jpg) 
+
+  图 3-6-2 照护管理页面   图 3-6-3 选择老人列表   图 3-6-4 选择记录内容
+
+### **3.6.2护理记录**
+
+选择照护管理页面中的“护理记录”页面，进入到护理记录页面（图3-6-5），可以查看今日老人做过的护理记录。
+
+新增护理记录：点击“添加”按钮，选择需要进行护理的老人，确定后弹出护理记录框(图3-6-6)，选择护理记录后保存。
+
+![img](housekeeper.assets/wps176.jpg)  ![img](file:///C:\Users\53653\AppData\Local\Temp\ksohtml18884\wps177.jpg)
+
+​       图 3-6-5 护理记录         图 3-6-6 记录页面
+
+ 
+
+# 第4章 **联系人**
+
+## **4.1联系人**
+
+选择“联系人”模块，进入到区划列表，选择社区，进入到社区联系人列表页面（图 4-1-1），包括社区员工、医师、老人等列表。
+
+![img](housekeeper.assets/wps178.jpg) 
+
+图4-1-1 联系人列表
+
+ 
+
+展开列表，选择需要查看的用户信息（图 4-1-2）
+
+![img](housekeeper.assets/wps179.jpg) 
+
+图 4-1-2 用户信息
+
+# 第5章 **我的**
+
+## **5.1基本信息**
+
+点击“我的”页面（图 5-1-1）中的头像，进入到我的详细信息页面（图 5-1-2）。用户可以进行编辑自己的个人资料，编辑完后点击保存。
+
+![img](housekeeper.assets/wps180.jpg) ![img](file:///C:\Users\53653\AppData\Local\Temp\ksohtml18884\wps181.jpg)
+
+​         图 5-1-1 我的       图 5-1-2 详情页面
+
+## **5.2密码修改**
+
+用户可以更改登录密码：选择我的页面列表中的“密码修改”选项，进入修改密码页面（图 5-1-3），编辑新旧密码保存。
+
+![img](housekeeper.assets/wps182.jpg) 
+
+图 5-1-3 修改密码
+
+## **5.3意见反馈**
+
+选择我的页面列表中的“密码修改”选项，进入意见反馈页面（5-1-4），编辑APP有关问题后，点击提交。
+
+![img](housekeeper.assets/wps183.jpg) 
+
+图 5-1-4 意见反馈
+
+## **5.4关于我们**
+
+用户可以查看APP的版本以及版权信息。点击我的页面中的“关于我们”选项，进入关于我们页面。
+
+## **5.5 APP帮助**
+
+用户对有关操作不熟悉的话，可以查看APP帮助，选择列表中的“APP帮助”进入帮助页面（图 5-1-5）。
+
+![img](housekeeper.assets/wps184.jpg) 
+
+图 5-1-5 APP帮助
