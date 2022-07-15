@@ -1,15 +1,3 @@
-​	  
-
- 
-
-# 养老管家APP操作手册
-
- 
-
-
-
-
-
 
 
 
@@ -35,7 +23,8 @@
 
 用户可以跳过完善信息页面。
 
-![img](file:///C:\Users\53653\AppData\Local\Temp\ksohtml18884\wps19.jpg)  ![img](https://pensionproject.github.io/docs/image/housekeeper/wps20.jpg)
+![img](https://pensionproject.github.io/docs/image/housekeeper/wps19.jpg) 
+![img](https://pensionproject.github.io/docs/image/housekeeper/wps20.jpg)
 
 ​      图 2-2 用户注册            图 2-3 完善信息
 
@@ -117,13 +106,15 @@
 
 点击顶部分页栏的“健康评测”按钮，切换到健康评测列表页面（图3-1-10），用户可以查看选择的老人的各项健康评测。
 
-![img](file:///C:\Users\53653\AppData\Local\Temp\ksohtml18884\wps30.jpg)  ![img](https://pensionproject.github.io/docs/image/housekeeper/wps31.jpg)
+![img](https://pensionproject.github.io/docs/image/housekeeper/wps30.jpg)  
+![img](https://pensionproject.github.io/docs/image/housekeeper/wps31.jpg)
 
 ​    图 3-1-10 健康评测           图 3-1-11 评测详情
 
 ## **3.4 发送消息**
 
-用户可以给当前关注的人的手表发送语音消息。在首页中点击![img](https://pensionproject.github.io/docs/image/housekeeper/wps32.jpg)按钮，在弹出的内容编辑页面中填写语音内容，点击“发送”按钮。
+用户可以给当前关注的人的手表发送语音消息。在首页中点击
+![img](https://pensionproject.github.io/docs/image/housekeeper/wps32.jpg)按钮，在弹出的内容编辑页面中填写语音内容，点击“发送”按钮。
 
  
 
@@ -141,7 +132,8 @@
 
 ## **4.1 添加关注人**
 
-在首页（图3-1-1）中，用户可以点击![img](https://pensionproject.github.io/docs/image/housekeeper/wps35.jpg)按钮，进入到添加关注人界面（图 4-1-1）：
+在首页（图3-1-1）中，用户可以点击
+![img](https://pensionproject.github.io/docs/image/housekeeper/wps35.jpg)按钮，进入到添加关注人界面（图 4-1-1）：
 
 1）输入关注人的穿戴设备的IEMI编号和昵称，点击下一步，成功后回到首页。
 
@@ -185,9 +177,11 @@
 
 在首页（5-1-1）中点击“步数”一项，进入到步数数据页面（图 5-1-2）。
 
-用户可以设置关注人的每日的目标步数。点击右上角的![img](https://pensionproject.github.io/docs/image/housekeeper/wps40.jpg)按钮，进入到步数提醒（图 5-1-3）。
+用户可以设置关注人的每日的目标步数。点击右上角的
+![img](https://pensionproject.github.io/docs/image/housekeeper/wps40.jpg)按钮，进入到步数提醒（图 5-1-3）。
 
-![img](https://pensionproject.github.io/docs/image/housekeeper/wps41.jpg)  ![img](file:///C:\Users\53653\AppData\Local\Temp\ksohtml18884\wps42.jpg)
+![img](https://pensionproject.github.io/docs/image/housekeeper/wps41.jpg)  
+![img](https://pensionproject.github.io/docs/image/housekeeper/wps42.jpg)
 
 ​    图 5-1-2 步数数据          图 5-1-3 步数设置
 
@@ -207,7 +201,8 @@
 
 在首页中点击“血压”数据选项，进入到血压数据详情页面（图5-1-5），点击“录入血压”按钮，进入到录入血压页面（图5-1-6）。
 
-![img](https://pensionproject.github.io/docs/image/housekeeper/wps44.jpg)  ![img](file:///C:\Users\53653\AppData\Local\Temp\ksohtml18884\wps45.jpg)
+![img](https://pensionproject.github.io/docs/image/housekeeper/wps44.jpg) 
+![img](https://pensionproject.github.io/docs/image/housekeeper/wps45.jpg)
 
 ​      图 5-1-5 血压数据              图5-1-6 录入血压
 
@@ -215,7 +210,8 @@
 
 在首页中点击“血糖”数据选项，进入到血糖数据详情页面（图5-1-5），点击“录入血糖”按钮，进入到录入血糖页面（图5-1-6）。
 
-![img](https://pensionproject.github.io/docs/image/housekeeper/wps46.jpg) ![img](file:///C:\Users\53653\AppData\Local\Temp\ksohtml18884\wps47.jpg)
+![img](https://pensionproject.github.io/docs/image/housekeeper/wps46.jpg) 
+![img](https://pensionproject.github.io/docs/image/housekeeper/wps47.jpg)
 
    图 5-1-7 血糖数据页面               图 5-1-8 录入血糖
 
@@ -249,7 +245,8 @@
 
  
 
-![img](https://pensionproject.github.io/docs/image/housekeeper/wps50.jpg) ![img](file:///C:\Users\53653\AppData\Local\Temp\ksohtml18884\wps51.jpg)
+![img](https://pensionproject.github.io/docs/image/housekeeper/wps50.jpg) 
+![img](https://pensionproject.github.io/docs/image/housekeeper/wps51.jpg)
 
 图 7-1-1 我的        图 7-1-2 基本信息
 
@@ -273,9 +270,12 @@
 
 ### **7.2.2联系人设置**
 
-用户选择在设备列表页面（图 7-1-3），选择一个设备，点击“设置”按钮，进入到终端设备设置页面（图 7-1-5），选择“联系人设置选项”，进入到联系人设置页面（图7-1-6），点击![img](https://pensionproject.github.io/docs/image/housekeeper/wps54.jpg)按钮，输入姓名、电话信息。
+用户选择在设备列表页面（图 7-1-3），选择一个设备，点击“设置”按钮，进入到终端设备设置页面（图 7-1-5），选择“联系人设置选项”，进入到联系人设置页面（图7-1-6），点击
+![img](https://pensionproject.github.io/docs/image/housekeeper/wps54.jpg)按钮，输入姓名、电话信息。
 
-![img](https://pensionproject.github.io/docs/image/housekeeper/wps55.jpg) ![img](file:///C:\Users\53653\AppData\Local\Temp\ksohtml18884\wps56.jpg) ![img](file:///C:\Users\53653\AppData\Local\Temp\ksohtml18884\wps57.jpg)
+![img](https://pensionproject.github.io/docs/image/housekeeper/wps55.jpg)
+![img](https://pensionproject.github.io/docs/image/housekeeper/wps56.jpg)
+![img](https://pensionproject.github.io/docs/image/housekeeper/wps57.jpg)
 
 图 7-1-5 设置       图 7-1-6 联系人设置     图7-1-7 添加联系人
 
@@ -313,7 +313,8 @@
 
 2）选择提醒类型，选择提醒时间，选择语音类型后点击保存。
 
-![img](https://pensionproject.github.io/docs/image/housekeeper/wps61.jpg) ![img](file:///C:\Users\53653\AppData\Local\Temp\ksohtml18884\wps62.jpg)
+![img](https://pensionproject.github.io/docs/image/housekeeper/wps61.jpg)
+![img](https://pensionproject.github.io/docs/image/housekeeper/wps62.jpg)
 
 ​      图 7-1-10 语音设置        图 7-1-11 语音设置页面  
 
@@ -323,7 +324,8 @@
 
 用户点击“我的账单”按钮，进入到账单页面（图 7-1-13）可以查看用户当前账单详情。
 
-![img](file:///C:\Users\53653\AppData\Local\Temp\ksohtml18884\wps63.jpg)  ![img](https://pensionproject.github.io/docs/image/housekeeper/wps64.jpg)
+![img](https://pensionproject.github.io/docs/image/housekeeper/wps63.jpg) 
+![img](https://pensionproject.github.io/docs/image/housekeeper/wps64.jpg)
 
 ​    图 7-1-12 电子钱包          图 7-1-13 账单详情
 
@@ -357,7 +359,8 @@
 
 输入旧密码和新密码后点击保存。
 
-![img](https://pensionproject.github.io/docs/image/housekeeper/wps67.jpg)  ![img](file:///C:\Users\53653\AppData\Local\Temp\ksohtml18884\wps68.jpg)
+![img](https://pensionproject.github.io/docs/image/housekeeper/wps67.jpg) 
+![img](https://pensionproject.github.io/docs/image/housekeeper/wps68.jpg)
 
   图 7-1-16 设置页面          图 7-1-17 修改密码
 
@@ -383,7 +386,8 @@
 
 用户可以对有争议的服务账单提出投诉申请，在设置页面中选择“交易投诉”进入到页面（图 7-1-21），点击“发起投诉”按钮，进入投诉页面（图 7-1-22），填写原因和截图。
 
-![img](https://pensionproject.github.io/docs/image/housekeeper/wps71.jpg) ![img]https://pensionproject.github.io/docs/image/housekeeper/wps72.jpg)
+![img](https://pensionproject.github.io/docs/image/housekeeper/wps71.jpg)
+![img](https://pensionproject.github.io/docs/image/housekeeper/wps72.jpg)
 
 ​     图 7-1-21 交易投诉列表           图 7-1-22 编辑交易投诉
 
