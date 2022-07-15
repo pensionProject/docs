@@ -39,13 +39,13 @@
 
 ## **2.2注册**
 
-\1. 点击![img](https://pensionproject.github.io/docs/image/officialWebsite/wps187.png)，弹出注册页面，如下图：
+1. 点击![img](https://pensionproject.github.io/docs/image/officialWebsite/wps187.png)，弹出注册页面，如下图：
 
-\2. 点击获取验证码获取验证码
+2. 点击获取验证码获取验证码
 
-\3. 勾选我已阅读并完全同意条款内容
+3. 勾选我已阅读并完全同意条款内容
 
-\4. 输入信息后点击创建账户
+4. 输入信息后点击创建账户
 
 ![img](https://pensionproject.github.io/docs/image/officialWebsite/wps188.png) 
 
@@ -71,13 +71,13 @@
 
 图 31 首页页面
 
-\1. 找服务可点击跳转至服务预约页面。
+1. 找服务可点击跳转至服务预约页面。
 
-\2. 找机构可点击跳转至服务供应商页面。
+2. 找机构可点击跳转至服务供应商页面。
 
-\3. 找产品可点击跳转至养老商城页面。
+3. 找产品可点击跳转至养老商城页面。
 
-\4. 地图查找点击跳转至养老地图页面
+4. 地图查找点击跳转至养老地图页面
 
 ## **3.2关于平台介绍**
 
